@@ -1,0 +1,13 @@
+{
+  "name": "@trustkey/promise-http-api",
+  "version": "0.0.1",
+  "main": "module.js",
+  "private": true,
+  "plugin": {
+    "consumes": [
+      "promise",
+      "http_server"
+    ]
+  },
+  "dependencies": { }
+}
